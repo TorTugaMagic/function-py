@@ -8,5 +8,5 @@ for _,value in my_dict.items():
     print(f"My favorite thing to eat is: {value}")
 
 #my_dict=my_dict
-my_list2 
+#my_list2 
 

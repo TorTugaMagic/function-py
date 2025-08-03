@@ -2,9 +2,9 @@
 # Script para agregar el script actual al repositorio git y hacer un commit
 # y push al branch main.
 
-git add codesh git keyTerm M2
+git add mylib git keyTerm M2
 git add .
-git commit -m "Agregando mi project py al repositorio"
+git commit -m "Agregando arhivo de test y venv"
 git push origin main
 echo "Archivo git/guardar.sh agregado y enviado al repositorio."
 echo "para ejecutar el script, usa el comando:bash git/guardar.sh"

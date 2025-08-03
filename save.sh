@@ -4,7 +4,7 @@
 
 git add codesh git keyTerm M2
 git add .
-git commit -m "Agregando el script git/guardar.sh al repositorio"
+git commit -m "Agregando mi project py al repositorio"
 git push origin main
 echo "Archivo git/guardar.sh agregado y enviado al repositorio."
 echo "para ejecutar el script, usa el comando:bash git/guardar.sh"

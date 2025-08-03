@@ -6,7 +6,7 @@ from mylib.bot import scrape
 # click.echo
 
 @click.command()
-@click.option("--name",
+@click.option("--name", prompt="wikipedia page to scrape",
                 help='Web page we want to scrape')
 def cli(name):
     result = scrape(name)

@@ -4,11 +4,12 @@
 
 git add mylib git keyTerm M2
 git add .
-git commit -m "Agregando archivo de funciones y notebook de funciones y test"
+git commit -m "Realizando test de cli en wikibot.py"
 git push origin main
 echo "Archivo git/guardar.sh agregado y enviado al repositorio."
 echo "para ejecutar el script, usa el comando:bash git/guardar.sh"
 
+#git config pull.rebase false
 # This script adds the current script to the git repository, commits it with a message, and pushes it to the main branch.
 # It algo provides a message indicating how to run the script.
 

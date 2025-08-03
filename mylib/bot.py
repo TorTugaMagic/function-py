@@ -1,5 +1,11 @@
-import fire
-from mylib.bot import scrape
+import wikipedia
+# import fire
+# from mylib.bot import scrape
 
-if __name__ == "__main__":
-    fire.Fire(scrape)
+def scrape(name="Microsoft", length=5):
+    result = wikipedia.summary(name, sentences=length)
+    return result
+
+
+#if __name__ == "__main__":
+    #fire.Fire(scrape)

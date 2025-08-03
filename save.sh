@@ -4,7 +4,7 @@
 
 git add mylib git keyTerm M2
 git add .
-git commit -m "fire, test + and wikibot up wel"
+git commit -m "corrigiendo requirements.txt"
 git push origin main
 echo "Archivo git/guardar.sh agregado y enviado al repositorio."
 echo "para ejecutar el script, usa el comando:bash git/guardar.sh"

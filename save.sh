@@ -4,7 +4,7 @@
 
 git add mylib git keyTerm M2
 git add .
-git commit -m "Agregando arhivo de test y venv"
+git commit -m "Agregando archivo de funciones y notebook de funciones y test"
 git push origin main
 echo "Archivo git/guardar.sh agregado y enviado al repositorio."
 echo "para ejecutar el script, usa el comando:bash git/guardar.sh"

@@ -25,7 +25,7 @@ async def scrape_story(wiki: Wiki):
 
 @app.get("/")
 async def root():
-    return {"message": "Hello Functions"}
+    return {"message": "Hello Alice"}
 
 
 @app.get("/add/{num1}/{num2}")

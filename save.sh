@@ -4,7 +4,7 @@
 
 git add mylib git keyTerm M2
 git add .
-git commit -m "Corriengo error de lint test reaady, formato"
+git commit -m "Give up a container in the cloud or in your computer, with microservices"
 git push origin main
 echo "Archivo git/guardar.sh agregado y enviado al repositorio."
 echo "para ejecutar el script, usa el comando:bash git/guardar.sh"
